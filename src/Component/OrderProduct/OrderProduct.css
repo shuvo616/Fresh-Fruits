@@ -1,0 +1,23 @@
+.checkout{
+    padding: 10px;
+    box-shadow: 2px 2px 6px 2px #ddd;
+    border-radius: 5px;
+}
+.checkout table{}
+.checkout table tr {
+    border-bottom: 1px solid #d6c8c8;
+}
+.checkout table tr:nth-child(3) {
+    border-bottom: 0px solid #d6c8c8;
+}
+.checkout table tr:last-child{
+    border-bottom: 0px solid #d6c8c8;
+
+}
+.checkout table tr td{
+    padding: 3px 43px;
+    padding-top: 12px;
+}
+.textBold{
+    font-weight: bold;
+}

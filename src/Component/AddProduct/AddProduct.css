@@ -1,0 +1,17 @@
+.rightSide{
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 9px 1px #189936;
+}
+.rightSide input{
+    width: 88%;
+    padding: 6px 0px;
+    border: 1px solid #189936;
+    border-radius: 10px;
+}
+.rightSide p{
+    font-size: 22px;
+    margin-bottom: 3px;
+    margin-top: 10px;
+    font-weight: 500;
+}

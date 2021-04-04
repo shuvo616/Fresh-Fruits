@@ -1,0 +1,15 @@
+.leftSide{
+    background-color: #043e04;
+    height: 100vh;
+}
+.leftSide ul{
+    padding-top: 22px;
+}
+.leftSide ul li{
+    border-bottom: 1px solid #3ba553;
+    padding: 8px 9px;
+}
+.leftSide ul li:hover{
+    background-color: #049a26;
+    text-decoration: none;
+}

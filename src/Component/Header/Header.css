@@ -1,0 +1,25 @@
+nav{
+    background-color: #0a790a;
+}
+.navComponent{
+    margin: 10px 10px;
+    color: #fff;
+    font-weight: 500;
+}
+.brand{
+    color: #fff;
+    font-weight: 500;
+    font-size: 26px;
+}
+.brand:hover{
+    text-decoration: none;
+}
+.userName{
+    color: #fff;
+    margin-top: 5px;
+    text-decoration: none;
+
+}
+.userName:hover{
+    text-decoration: none;
+}
